@@ -1,6 +1,6 @@
 {
   "name": "valoneuf",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "ValoNeuf dans Claude : l'immobilier neuf en France — programmes, lots, prix, marché des communes, analyse d'emplacement — et des méthodes pour étudier un emplacement, comparer des programmes ou mener un projet d'achat.",
   "author": {
     "name": "ADN Family",
@@ -21,6 +21,6 @@
   "privacyPolicyUrl": "https://valoneuf.com/carte/confidentialite",
   "icon": ".claude-plugin/icon.png",
   "displayName": "ValoNeuf",
-  "supportUrl": "mailto:valoneuf@adnfamily.com",
+  "supportUrl": "https://valoneuf.com/claude#assistance",
   "documentationUrl": "https://valoneuf.com/claude"
 }
