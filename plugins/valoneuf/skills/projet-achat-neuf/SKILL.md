@@ -16,9 +16,14 @@ Poser les questions utiles, pas plus de trois à la fois :
 
 ## 2. Chercher
 
-- `rechercher_programmes` par commune (filtres prix au m² et année de livraison) ;
-- ou `programmes_autour` d'une adresse de référence.
-Présenter une **courte sélection** (3 à 6 programmes) avec, pour chacun, la raison de sa présence.
+- Dès que la typologie ou le budget sont connus : `rechercher_logements` (commune, code postal,
+  département, ou rayon autour d'une adresse de référence ; pièces, budget TTC, surface,
+  livraison, résidence classique ou gérée). Il rend les logements qui conviennent et leur total
+  exact, 50 par page.
+- Pour une première découverte sans critères : `rechercher_programmes` par commune, ou
+  `programmes_autour` d'une adresse.
+Présenter une **courte sélection** (3 à 6 logements ou programmes) avec, pour chacun, la raison de
+sa présence. Rappeler que le prix est celui du lot seul : stationnements et annexes à part.
 
 ## 3. Approfondir
 

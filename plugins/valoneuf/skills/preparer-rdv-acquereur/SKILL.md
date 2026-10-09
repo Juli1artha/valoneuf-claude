@@ -16,7 +16,7 @@ Commune(s) visée(s), budget, typologie, calendrier, objectif (habiter ou invest
 
 1. **Le marché en trois chiffres** (`marche_commune`) : prix du neuf, prix de l'ancien (DVF),
    tendance — et ce que cela veut dire pour ce budget.
-2. **Les programmes à présenter** (`rechercher_programmes`, puis `fiche_programme`) : 3 à 5,
+2. **Les programmes à présenter** (`rechercher_logements` avec le profil de l'acquéreur, puis `fiche_programme`) : 3 à 5,
    chacun avec les lots qui tiennent dans le budget, la livraison, le prix au m² et son écart au
    marché, et le lien ValoNeuf.
 3. **Les arguments** : ce qui distingue chaque programme (emplacement, calendrier, prix,
