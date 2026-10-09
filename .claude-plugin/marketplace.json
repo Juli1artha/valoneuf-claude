@@ -1,0 +1,14 @@
+{
+  "name": "valoneuf",
+  "owner": { "name": "ADN Family", "url": "https://valoneuf.com" },
+  "description": "ValoNeuf for Claude: new-build real estate in France — developments, units, prices, local market data and location analysis.",
+  "plugins": [
+    {
+      "name": "valoneuf",
+      "source": "./plugins/valoneuf",
+      "description": "ValoNeuf connector (new-build developments, units, prices, town market data, location analysis, adviser call-back) and four real-estate skills.",
+      "category": "productivity",
+      "homepage": "https://valoneuf.com/claude"
+    }
+  ]
+}

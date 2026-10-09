@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "valoneuf": {
+      "type": "http",
+      "url": "https://valoneuf.com/api/public/mcp"
+    }
+  }
+}
