@@ -6,6 +6,9 @@ ready-made methods.
 
 ## What it does
 
+- **Find homes** that match a buyer's criteria (town, rooms, budget, surface, outdoor space, delivery), with the exact total and what is left if a criterion is added.
+- **Show a shortlist as cards** in claude.ai and the Claude app: photos, floor plan preview, side-by-side comparison and local market charts.
+- **Compare homes**, read a **floor plan** (free ValoNeuf account) and describe the **neighbourhood** (straight-line distances, INSEE district, risks).
 - **Search** developments on sale by town, département, developer or around an address.
 - **Open a development**: available units, floor areas, prices, delivery date.
 - **Describe a town's market**: new-build prices, actual sales (DVF), building permits, recent price cuts.
